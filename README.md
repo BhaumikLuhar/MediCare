@@ -26,7 +26,7 @@ Design and implement a database for managing hospital operations, such as:
 - Patient medical records
 - Doctor and staff management
 - Billing and insurance handling
-- Treatment, lab results, and feedback tracking
+- Treatment, lab results
 
 ---
 
@@ -47,7 +47,6 @@ Each role has distinct use cases, including registering, accessing data, updatin
 - Register & update personal info
 - Schedule & view appointments
 - View medical history, test results, bills
-- Rate doctors and give feedback
 
 ### ✔️ Doctors:
 - Manage availability
@@ -70,25 +69,26 @@ Each role has distinct use cases, including registering, accessing data, updatin
 ## 🧠 Sample SQL Queries
 
 We include a set of queries covering use cases such as:
-- Top-rated doctors
 - Patient recovery tracking
 - Doctor’s busy hours
 - Emergency room analytics
 - Pending lab test results
 - Financial summaries
 
-(See `/database/queries/` for categorized SQL examples.)
+(See `Example_Queries` for SQL examples.)
 
 ---
 
-## 📂 Files in the Repo
+## 📁 Files in the Repo
 
-| File/Folder              | Description                                  |
-|--------------------------|----------------------------------------------|
-| `IT214_Project_Submission1.pdf` | Original project report |
-| `database/`              | SQL schema and query files |
-| `README.md`              | GitHub overview file |
-| `screenshots/`           | Optional images like schema or ER diagrams |
+| File/Folder                        | Description                              |
+|-----------------------------------|------------------------------------------|
+| `Example_Queries.txt`             | Sample SQL queries for project testing   |
+| `MediCare_DDL_Script.txt`         | SQL DDL script to create database schema |
+| `MediCare_Data.txt`               | Project report or sample data file       |
+| `MediCare_ER.pdf`                 | ER diagram of the hospital system        |
+| `MediCare_Relational_Schema.pdf` | Relational schema converted from ER      |
+| `README.md`                       | GitHub overview and project documentation|
 
 ---
 
