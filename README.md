@@ -1,5 +1,3 @@
-# MediCare
-MediCare is a hospital management database system designed for efficient handling of patient records, appointments, billing, and staff operations. It supports multiple user roles like patients, doctors, staff, and administrators.
 # MediCare - Hospital Management Database System 🏥
 
 This is a **Database Management System (DBMS)** project developed as part of the IT214 course at [Your College Name]. The goal is to design and implement a structured, multi-user hospital database system that handles patients, doctors, staff, and administrators.
